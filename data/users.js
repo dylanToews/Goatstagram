@@ -24,5 +24,4 @@ export const USERS = [
     image: 'https://images.unsplash.com/photo-1524024973431-2ad916746881?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Z29hdHxlbnwwfHwwfHw%3D&w=1000&q=80',
   }
 
-  
 ]

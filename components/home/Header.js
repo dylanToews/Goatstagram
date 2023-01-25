@@ -7,7 +7,7 @@ const Header = () => {
       <TouchableOpacity>
         <Image
           style={styles.logo}
-          source={require("../../assets/header-logo.png")}
+          source={require("../../assets/GoatStagram-logo.png")}
         />
       </TouchableOpacity>
 
@@ -57,7 +57,7 @@ const styles = StyleSheet.create({
   },
 
   logo: {
-    width: 100,
+    width: 175,
     height: 50,
     resizeMode: "contain",
   },
@@ -80,7 +80,7 @@ const styles = StyleSheet.create({
     justifyContent: "center",
     zIndex: 100,
   },
-  
+
   unreadBadgeText: {
     color: 'white',
     fontWeight: '600',
