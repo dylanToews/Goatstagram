@@ -29,10 +29,7 @@ export const POSTS = [
         user: 'thegoatman',
         comment: 'real deadly goatman'
       },
-      {
-      user: 'goat4reel',
-      comment: 'goat4real4lyfe'
-      }
+
     ]
   },
 
